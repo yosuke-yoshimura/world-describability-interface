@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+
+title: >
+  On the Total Describability of the World and Pre-Semantic Motion:
+  A Non-Explanatory Theoretical Configuration
+
+authors:
+  - family-names: Yoshimura
+    given-names: Yosuke
+    affiliation: Independent Researcher
+    country: JP
+
+abstract: >
+  This work proposes a theoretical configuration that treats the world
+  not as a domain of meaning, value, or purpose, but as the totality of
+  generative motion structures. It does not aim to establish a new ontology,
+  integrate existing theories, or conclude a worldview. Instead, it preserves
+  silence, suspension, and margin as conditions for academic dialogue.
+
+keywords:
+  - world describability
+  - generative motion
+  - pre-semantic structure
+  - non-explanatory theory
+  - theoretical configuration
+  - cognition
+  - incommensurability
+  - academic silence
+
+license: CC-BY-4.0
+
+repository-code: https://github.com/USERNAME/world-describability-interface
+
+date-released: 2025-01-01
